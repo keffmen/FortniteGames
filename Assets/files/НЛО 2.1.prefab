@@ -51,9 +51,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.452
       objectReference: {fileID: 0}
+    - target: {fileID: 8708668725302937869, guid: fc16b00906a897d4cbf46a5c67cb7c55, type: 3}
+      propertyPath: Destroy_effec
+      value: 
+      objectReference: {fileID: 7465712558258382601, guid: c9c587d0889cfcb439a6bd7980b92016, type: 3}
     - target: {fileID: 8822231083663314315, guid: fc16b00906a897d4cbf46a5c67cb7c55, type: 3}
       propertyPath: m_Name
-      value: "\u041D\u041B\u041E 2"
+      value: "\u041D\u041B\u041E 2.1"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc16b00906a897d4cbf46a5c67cb7c55, type: 3}

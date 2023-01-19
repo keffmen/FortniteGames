@@ -55,6 +55,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u041D\u041B\u041E 1.1"
       objectReference: {fileID: 0}
+    - target: {fileID: 3339199297129840738, guid: e314334c464313a409d9d02989e3093f, type: 3}
+      propertyPath: Destroy_effec
+      value: 
+      objectReference: {fileID: 7465712558258382601, guid: c9c587d0889cfcb439a6bd7980b92016, type: 3}
     m_RemovedComponents:
     - {fileID: -2250222588182203834, guid: e314334c464313a409d9d02989e3093f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: e314334c464313a409d9d02989e3093f, type: 3}

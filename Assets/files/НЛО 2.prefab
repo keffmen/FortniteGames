@@ -99,4 +99,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 315a5eb0e795c394c931c8c5a12c1002, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timeEnd: 0
   speed: 0.1
+  Destroy_effec: {fileID: 7465712558258382601, guid: c9c587d0889cfcb439a6bd7980b92016, type: 3}
