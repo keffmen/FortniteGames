@@ -8,7 +8,12 @@ public class Score : MonoBehaviour
     public static int alien;
     public Text scoreText;
 
-    // Update is called once per frame
+    private void Start()
+    {
+        alien= 0;
+    }
+    
+
     void Update()
     {
         scoreText.text = "—бито: " + alien;

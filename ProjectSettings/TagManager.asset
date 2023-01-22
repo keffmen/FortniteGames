@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Destroy_Left
   - Destroy_right
+  - Background
   layers:
   - Default
   - TransparentFX

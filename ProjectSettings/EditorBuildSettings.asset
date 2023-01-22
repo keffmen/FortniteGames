@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 2aa213d1c9028d249b03eae780e2c468
+  - enabled: 1
     path: Assets/Scenes/alien attack.unity
     guid: bd46389c2d2897f4481333e459644133
   m_configObjects: {}
